@@ -126,10 +126,10 @@
     <value>Consolas, 38.25pt, style=Bold</value>
   </data>
   <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 577</value>
+    <value>12, 548</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1157, 63</value>
+    <value>1066, 63</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
@@ -151,46 +151,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="MadeBySefinek.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="MadeBySefinek.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Ink Free, 23.25pt</value>
-  </data>
-  <data name="MadeBySefinek.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopRight</value>
-  </data>
-  <data name="MadeBySefinek.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="MadeBySefinek.Location" type="System.Drawing.Point, System.Drawing">
-    <value>764, 71</value>
-  </data>
-  <data name="MadeBySefinek.Size" type="System.Drawing.Size, System.Drawing">
-    <value>399, 38</value>
-  </data>
-  <data name="MadeBySefinek.TabIndex" type="System.Int32, mscorlib">
-    <value>78</value>
-  </data>
-  <data name="MadeBySefinek.Text" xml:space="preserve">
-    <value>skapad av Sefinek</value>
-  </data>
-  <data name="MadeBySefinek.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="&gt;&gt;MadeBySefinek.Name" xml:space="preserve">
-    <value>MadeBySefinek</value>
-  </data>
-  <data name="&gt;&gt;MadeBySefinek.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;MadeBySefinek.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;MadeBySefinek.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>8</value>
   </data>
   <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
@@ -208,16 +169,16 @@
     <value>NoControl</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>575, 16</value>
+    <value>658, 19</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>595, 58</value>
+    <value>420, 58</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>77</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Impact Stella-modden</value>
+    <value>Genshin Stella Mod</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopRight</value>
@@ -232,73 +193,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="checkBox2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="checkBox2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="checkBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.75pt</value>
-  </data>
-  <data name="checkBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 279</value>
-  </data>
-  <data name="checkBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>434, 24</value>
-  </data>
-  <data name="checkBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>82</value>
-  </data>
-  <data name="checkBox2.Text" xml:space="preserve">
-    <value>Skapa genväg på skrivbordet och i Start-menyn *</value>
-  </data>
-  <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
-    <value>checkBox2</value>
-  </data>
-  <data name="&gt;&gt;checkBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;checkBox2.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="checkBox3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="checkBox3.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="checkBox3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.75pt</value>
-  </data>
-  <data name="checkBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 303</value>
-  </data>
-  <data name="checkBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>430, 24</value>
-  </data>
-  <data name="checkBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>83</value>
-  </data>
-  <data name="checkBox3.Text" xml:space="preserve">
-    <value>Skapa genvägar till officiella webbplatser i Start-menyn</value>
-  </data>
-  <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
-    <value>checkBox3</value>
-  </data>
-  <data name="&gt;&gt;checkBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;checkBox3.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="checkBox4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
@@ -310,7 +205,7 @@
     <value>Microsoft Sans Serif, 12.75pt</value>
   </data>
   <data name="checkBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 351</value>
+    <value>12, 293</value>
   </data>
   <data name="checkBox4.Size" type="System.Drawing.Size, System.Drawing">
     <value>415, 24</value>
@@ -331,39 +226,6 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;checkBox4.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="checkBox5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="checkBox5.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="checkBox5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.75pt</value>
-  </data>
-  <data name="checkBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 375</value>
-  </data>
-  <data name="checkBox5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>346, 24</value>
-  </data>
-  <data name="checkBox5.TabIndex" type="System.Int32, mscorlib">
-    <value>85</value>
-  </data>
-  <data name="checkBox5.Text" xml:space="preserve">
-    <value>Ladda ner eller uppdatera FPS-upplåsarens konfiguration *</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.Name" xml:space="preserve">
-    <value>checkBox5</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
   <data name="checkBox6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -376,7 +238,7 @@
     <value>Microsoft Sans Serif, 12.75pt</value>
   </data>
   <data name="checkBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 399</value>
+    <value>12, 316</value>
   </data>
   <data name="checkBox6.Size" type="System.Drawing.Size, System.Drawing">
     <value>200, 24</value>
@@ -406,10 +268,10 @@
     <value>Microsoft YaHei, 39.75pt</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 111</value>
+    <value>8, 75</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1157, 89</value>
+    <value>1070, 89</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>87</value>
@@ -439,10 +301,10 @@
     <value>Consolas, 14.25pt</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 210</value>
+    <value>12, 164</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1157, 65</value>
+    <value>1066, 65</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>88</value>
@@ -476,7 +338,7 @@ Grattis! Nu går vi vidare till de sista stegen. Vänligen välj de lämpliga f�
     <value>Microsoft Sans Serif, 12.75pt</value>
   </data>
   <data name="checkBox7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 327</value>
+    <value>12, 269</value>
   </data>
   <data name="checkBox7.Size" type="System.Drawing.Size, System.Drawing">
     <value>473, 24</value>
@@ -506,10 +368,10 @@ Grattis! Nu går vi vidare till de sista stegen. Vänligen välj de lämpliga f�
     <value>Ebrima, 14.25pt</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 509</value>
+    <value>12, 492</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1157, 56</value>
+    <value>1066, 56</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>90</value>
@@ -543,16 +405,17 @@ Dina förinställningar och andra anpassade shaders kommer dock inte att tas bor
     <value>Arial, 12pt</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 427</value>
+    <value>9, 351</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>884, 18</value>
+    <value>450, 36</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fält markerade med en asterisk (*) rekommenderas att fyllas i. Om du är osäker på vad du gör, avmarkera inga fält.</value>
+    <value>Fields marked with an asterisk (*) are recommended to be filled.
+If you are unsure of what you're doing, do not uncheck any field.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -579,7 +442,7 @@ Dina förinställningar och andra anpassade shaders kommer dock inte att tas bor
     <value>Stretch</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1181, 656</value>
+    <value>1090, 629</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
