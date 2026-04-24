@@ -19,7 +19,6 @@ internal partial class Window : Form
 
 	private static int _downloadOrUpdateShaders;
 	private static int _updateReShadeConfig;
-	private static int _updateFpsUnlockerConfig;
 	private static int _deleteReShadeCache;
 
 	internal Window()
@@ -52,7 +51,6 @@ internal partial class Window : Form
 		}
 
 		checkBox4.Checked = _prepareIni.ReadInt("PrepareStella", "UpdateReShadeConfig", 1) != 0;
-		checkBox5.Checked = _prepareIni.ReadInt("PrepareStella", "UpdateFpsUnlockerConfig", 1) != 0;
 		checkBox6.Checked = _prepareIni.ReadInt("PrepareStella", "DeleteReShadeCache", 1) != 0;
 
 		SaveIniData();
@@ -83,11 +81,6 @@ internal partial class Window : Form
 		_updateReShadeConfig = checkBox4.Checked ? 1 : 0;
 	}
 
-	private void UpdateFpsUnlockerConfig_CheckedChanged(object sender, EventArgs e)
-	{
-		_updateFpsUnlockerConfig = checkBox5.Checked ? 1 : 0;
-	}
-
 	private void DeleteReShadeCache_CheckedChanged(object sender, EventArgs e)
 	{
 		_deleteReShadeCache = checkBox6.Checked ? 1 : 0;
@@ -97,7 +90,6 @@ internal partial class Window : Form
 	{
 		_prepareIni.WriteInt("PrepareStella", "DownloadOrUpdateShaders", _downloadOrUpdateShaders);
 		_prepareIni.WriteInt("PrepareStella", "UpdateReShadeConfig", _updateReShadeConfig);
-		_prepareIni.WriteInt("PrepareStella", "UpdateFpsUnlockerConfig", _updateFpsUnlockerConfig);
 		_prepareIni.WriteInt("PrepareStella", "DeleteReShadeCache", _deleteReShadeCache);
 
 		Program.Logger.Info("Saved ini config");

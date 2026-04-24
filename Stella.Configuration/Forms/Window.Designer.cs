@@ -32,7 +32,6 @@ namespace StellaConfiguration.Forms
 			linkLabel1 = new LinkLabel();
 			label1 = new Label();
 			checkBox4 = new CheckBox();
-			checkBox5 = new CheckBox();
 			checkBox6 = new CheckBox();
 			label2 = new Label();
 			label3 = new Label();
@@ -69,16 +68,6 @@ namespace StellaConfiguration.Forms
 			checkBox4.Name = "checkBox4";
 			checkBox4.UseVisualStyleBackColor = false;
 			checkBox4.CheckedChanged += UpdateReShadeConfig_CheckedChanged;
-			// 
-			// checkBox5
-			// 
-			resources.ApplyResources(checkBox5, "checkBox5");
-			checkBox5.BackColor = Color.Transparent;
-			checkBox5.Cursor = Cursors.Hand;
-			checkBox5.ForeColor = Color.WhiteSmoke;
-			checkBox5.Name = "checkBox5";
-			checkBox5.UseVisualStyleBackColor = false;
-			checkBox5.CheckedChanged += UpdateFpsUnlockerConfig_CheckedChanged;
 			// 
 			// checkBox6
 			// 
@@ -139,7 +128,6 @@ namespace StellaConfiguration.Forms
 			Controls.Add(label3);
 			Controls.Add(label2);
 			Controls.Add(checkBox6);
-			Controls.Add(checkBox5);
 			Controls.Add(checkBox4);
 			Controls.Add(label1);
 			Controls.Add(linkLabel1);
@@ -159,7 +147,6 @@ namespace StellaConfiguration.Forms
 		private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.CheckBox checkBox4;
-        private System.Windows.Forms.CheckBox checkBox5;
         private System.Windows.Forms.CheckBox checkBox6;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;

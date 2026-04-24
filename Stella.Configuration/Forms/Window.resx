@@ -151,7 +151,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
@@ -193,7 +193,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="checkBox4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
@@ -226,39 +226,6 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;checkBox4.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="checkBox5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="checkBox5.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="checkBox5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12.75pt</value>
-  </data>
-  <data name="checkBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 317</value>
-  </data>
-  <data name="checkBox5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>346, 24</value>
-  </data>
-  <data name="checkBox5.TabIndex" type="System.Int32, mscorlib">
-    <value>85</value>
-  </data>
-  <data name="checkBox5.Text" xml:space="preserve">
-    <value>Download or update FPS Unlocker config *</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.Name" xml:space="preserve">
-    <value>checkBox5</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;checkBox5.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
   <data name="checkBox6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -271,7 +238,7 @@
     <value>Microsoft Sans Serif, 12.75pt</value>
   </data>
   <data name="checkBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 341</value>
+    <value>12, 316</value>
   </data>
   <data name="checkBox6.Size" type="System.Drawing.Size, System.Drawing">
     <value>200, 24</value>
@@ -438,7 +405,7 @@ However, your presets and other custom shaders will not be removed.</value>
     <value>Arial, 12pt</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 370</value>
+    <value>9, 351</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
     <value>450, 36</value>
