@@ -28,12 +28,9 @@ namespace StellaConfiguration.Forms
 		/// </summary>
 		private void InitializeComponent()
 		{
-			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Window));
+			var resources = new System.ComponentModel.ComponentResourceManager(typeof(Window));
 			linkLabel1 = new LinkLabel();
-			MadeBySefinek = new Label();
 			label1 = new Label();
-			checkBox2 = new CheckBox();
-			checkBox3 = new CheckBox();
 			checkBox4 = new CheckBox();
 			checkBox5 = new CheckBox();
 			checkBox6 = new CheckBox();
@@ -53,15 +50,8 @@ namespace StellaConfiguration.Forms
 			linkLabel1.LinkBehavior = LinkBehavior.HoverUnderline;
 			linkLabel1.LinkColor = Color.LightSkyBlue;
 			linkLabel1.Name = "linkLabel1";
-			linkLabel1.TabStop = false;
+			linkLabel1.TabStop = true;
 			linkLabel1.LinkClicked += LetsGo_LinkClicked;
-			// 
-			// MadeBySefinek
-			// 
-			resources.ApplyResources(MadeBySefinek, "MadeBySefinek");
-			MadeBySefinek.BackColor = Color.Transparent;
-			MadeBySefinek.ForeColor = Color.FromArgb(0, 83, 167);
-			MadeBySefinek.Name = "MadeBySefinek";
 			// 
 			// label1
 			// 
@@ -69,26 +59,6 @@ namespace StellaConfiguration.Forms
 			label1.BackColor = Color.Transparent;
 			label1.ForeColor = Color.FromArgb(0, 83, 167);
 			label1.Name = "label1";
-			// 
-			// checkBox2
-			// 
-			resources.ApplyResources(checkBox2, "checkBox2");
-			checkBox2.BackColor = Color.Transparent;
-			checkBox2.Cursor = Cursors.Hand;
-			checkBox2.ForeColor = Color.WhiteSmoke;
-			checkBox2.Name = "checkBox2";
-			checkBox2.UseVisualStyleBackColor = false;
-			checkBox2.CheckedChanged += NewShortcutsOnDesktop_CheckedChanged;
-			// 
-			// checkBox3
-			// 
-			resources.ApplyResources(checkBox3, "checkBox3");
-			checkBox3.BackColor = Color.Transparent;
-			checkBox3.Cursor = Cursors.Hand;
-			checkBox3.ForeColor = Color.WhiteSmoke;
-			checkBox3.Name = "checkBox3";
-			checkBox3.UseVisualStyleBackColor = false;
-			checkBox3.CheckedChanged += InternetShortcutsInStartMenu_CheckedChanged;
 			// 
 			// checkBox4
 			// 
@@ -171,9 +141,6 @@ namespace StellaConfiguration.Forms
 			Controls.Add(checkBox6);
 			Controls.Add(checkBox5);
 			Controls.Add(checkBox4);
-			Controls.Add(checkBox3);
-			Controls.Add(checkBox2);
-			Controls.Add(MadeBySefinek);
 			Controls.Add(label1);
 			Controls.Add(linkLabel1);
 			DoubleBuffered = true;
@@ -190,10 +157,7 @@ namespace StellaConfiguration.Forms
 		#endregion
 
 		private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.Label MadeBySefinek;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.CheckBox checkBox4;
         private System.Windows.Forms.CheckBox checkBox5;
         private System.Windows.Forms.CheckBox checkBox6;

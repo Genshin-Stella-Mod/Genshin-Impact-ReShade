@@ -17,8 +17,6 @@ internal partial class Window : Form
 	private static readonly string PrepareCfgPath = Path.Combine(AppData, "prepare-stella.ini");
 	private static IniFile _prepareIni = null!;
 
-	private static int _newShortcutsOnDesktop;
-	private static int _newInternetShortcutsOnDesktop;
 	private static int _downloadOrUpdateShaders;
 	private static int _updateReShadeConfig;
 	private static int _updateFpsUnlockerConfig;
@@ -32,12 +30,6 @@ internal partial class Window : Form
 
 	private void Main_Load(object sender, EventArgs e)
 	{
-		// Shortcut
-		checkBox2.Checked = _prepareIni.ReadInt("PrepareStella", "NewShortcutsOnDesktop", 1) != 0;
-
-		// Web shortcuts
-		checkBox3.Checked = _prepareIni.ReadInt("PrepareStella", "InternetShortcutsInStartMenu", 1) != 0;
-
 		// Resources
 		var foundResources = CheckData.ResourcesPath();
 		if (!foundResources)
@@ -69,16 +61,6 @@ internal partial class Window : Form
 	private void Main_FormClosing(object sender, FormClosingEventArgs e)
 	{
 		SaveIniData();
-	}
-
-	private void NewShortcutsOnDesktop_CheckedChanged(object sender, EventArgs e)
-	{
-		_newShortcutsOnDesktop = checkBox2.Checked ? 1 : 0;
-	}
-
-	private void InternetShortcutsInStartMenu_CheckedChanged(object sender, EventArgs e)
-	{
-		_newInternetShortcutsOnDesktop = checkBox3.Checked ? 1 : 0;
 	}
 
 	private void DownloadOrUpdateShaders(object sender, EventArgs e)
@@ -113,8 +95,6 @@ internal partial class Window : Form
 
 	private static void SaveIniData()
 	{
-		_prepareIni.WriteInt("PrepareStella", "NewShortcutsOnDesktop", _newShortcutsOnDesktop);
-		_prepareIni.WriteInt("PrepareStella", "InternetShortcutsInStartMenu", _newInternetShortcutsOnDesktop);
 		_prepareIni.WriteInt("PrepareStella", "DownloadOrUpdateShaders", _downloadOrUpdateShaders);
 		_prepareIni.WriteInt("PrepareStella", "UpdateReShadeConfig", _updateReShadeConfig);
 		_prepareIni.WriteInt("PrepareStella", "UpdateFpsUnlockerConfig", _updateFpsUnlockerConfig);
