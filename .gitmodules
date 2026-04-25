@@ -1,39 +1,39 @@
 [submodule "Stella.Launcher"]
 	path = Stella.Launcher
-	url = https://github.com/sefinek/Stella.Launcher.git
+	url = git@github.com:sefinek/Stella.Launcher.git
     branch = main
 
 [submodule "Stella.Core"]
 	path = Stella.Core
-	url = https://github.com/sefinek/Stella.Core.git
+	url = git@github.com:sefinek/Stella.Core.git
 	branch = main
 
 [submodule "Stella.Prepare"]
     path = Stella.Prepare
-    url = https://github.com/sefinek/Stella.Prepare.git
+    url = git@github.com:sefinek/Stella.Prepare.git
     branch = main
 
 [submodule "Stella.StartupBeacon"]
 	path = Stella.StartupBeacon
-	url = https://github.com/sefinek/Stella.StartupBeacon.git
+	url = git@github.com:sefinek/Stella.StartupBeacon.git
 	branch = main
 
 [submodule "Stella.Utils"]
 	path = Stella.Utils
-	url = https://github.com/sefinek/Stella.Utils.git
+	url = git@github.com:sefinek/Stella.Utils.git
 	branch = main
 
 [submodule "Stella-Mod-DeviceIdentifier"]
 	path = Stella.DeviceIdentifier
-	url = https://github.com/sefinek/Stella.DeviceIdentifier.git
+	url = git@github.com:sefinek/Stella.DeviceIdentifier.git
 	branch = main
 
 [submodule "Stella.Builder"]
 	path = Stella.Builder
-	url = https://github.com/sefinek/Stella.Builder.git
+	url = git@github.com:sefinek/Stella.Builder.git
 	branch = main
 
 [submodule "Stella.Setup"]
 	path = Stella.Setup
-	url = https://github.com/sefinek/Stella.Setup.git
+	url = git@github.com:sefinek/Stella.Setup.git
 	branch = main
