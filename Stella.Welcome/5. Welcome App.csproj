@@ -12,7 +12,7 @@
 		<StartupObject>InfoBeforeStart.Program</StartupObject>
 		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
 		<ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
-		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+		<ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
 
 		<Company>Sefinek</Company>
 		<Product>Stella Mod Information</Product>
