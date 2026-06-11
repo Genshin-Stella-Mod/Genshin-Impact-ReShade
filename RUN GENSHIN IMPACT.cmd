@@ -11,7 +11,7 @@ echo for security reasons. Read more: https://stella.sefinek.net/docs?page=faq#n
 echo.
 echo To install Genshin Stella Mod, visit https://stella.sefinek.net and click the "Download" button.
 echo Make sure you download it only from sefinek.net!
-echo Discord server: https://discord.gg/zTc745GcVj
+echo Discord server: https://discord.com/invite/zTc745GcVj
 echo.
 echo Note: Some videos showcasing our software on YouTube may be outdated.
 echo.

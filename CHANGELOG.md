@@ -10,7 +10,7 @@
 </div>
 
 ## 📥 Changelog for v8.X.X
-https://sefinek.net/genshin-stella-mod/docs?page=changelog_v8
+https://stella.sefinek.net/docs?page=changelog_v8
 
 ## 🗑️ Deprecated releases
-https://sefinek.net/genshin-stella-mod/docs?page=deprecated-releases
+https://stella.sefinek.net/docs?page=deprecated-releases

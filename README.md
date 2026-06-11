@@ -14,7 +14,7 @@
     <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://img.shields.io/discord/1044713077125435492?label=Discord" alt="Our Discord server"></a>
     <a href="https://crowdin.com/project/genshin-stella-mod" title="Help translate on Crowdin"><img src="https://badges.crowdin.net/genshin-stella-mod/localized.svg" alt="Crowdin translation status"></a>
     <h3>
-        For a safer and enhanced experience with mods, consider subscribing to <a href="https://sefinek.net/genshin-stella-mod/subscription?referrer=github_readme" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a>.<br>
+        For a safer and enhanced experience with mods, consider subscribing to <a href="https://stella.sefinek.net/subscription?referrer=github_readme" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a>.<br>
         ⭐ » If you like this project, star the repository. Have a great day or night! « ⭐
     </h3>
     <img src="https://api.sefinek.net/api/v2/moecounter/@Genshin-Stella-Mod-Repo?theme=default" alt="Views" title="README.md views - starting from June 15, 2023, 12:26 PM GMT+2">
@@ -26,30 +26,30 @@
 <br>
 
 <div align="center">
-  <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
+  <a href="https://stella.sefinek.net?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
   <br>
-  <a href="https://sefinek.net/genshin-stella-mod?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
+  <a href="https://stella.sefinek.net?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
   <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Stella Mod Discord Server" height="138"></a>
 </div>
 
 
 ## 📋 〢 Documentation
-- [👋 Introduction](https://sefinek.net/genshin-stella-mod/docs?page=introduction)
-- [🍰 Stella Mod Key Features](https://sefinek.net/genshin-stella-mod/docs?page=requirements#key-features)
-- [✨ Requirements](https://sefinek.net/genshin-stella-mod/docs?page=requirements#system-requirements)
-- [🔧 Supported systems](https://sefinek.net/genshin-stella-mod/docs?page=requirements#supported-operating-systems)
-- [⚙️ Recommended settings for game](https://sefinek.net/genshin-stella-mod/docs?page=requirements#recommended-settings)
-- [🐈 What is ReShade and FPS Unlock?](https://sefinek.net/genshin-stella-mod/docs?page=reshade-fpsunlocker)
-- [🤔 FAQ](https://sefinek.net/genshin-stella-mod/docs?page=faq)
-- [🐕‍🦺 Support](https://sefinek.net/genshin-stella-mod/docs?page=support)
-- [🔧 Troubleshooting](https://sefinek.net/genshin-stella-mod/docs?page=troubleshooting)
-- [🚨 Terms of use](https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use)
-- [🔒 Privacy policy](https://sefinek.net/genshin-stella-mod/docs?page=privacy-policy)
-- [📥 Installation](https://sefinek.net/genshin-stella-mod/docs?page=installation)
-- [📷 Gallery](https://sefinek.net/genshin-stella-mod/gallery?page=1)
-- [📃 Changelogs](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v8)
-- [🧀 Legend](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)
-- [🧶 Credits](https://sefinek.net/genshin-stella-mod/docs?page=credits)
+- [👋 Introduction](https://stella.sefinek.net/docs?page=introduction)
+- [🍰 Stella Mod Key Features](https://stella.sefinek.net/docs?page=requirements#key-features)
+- [✨ Requirements](https://stella.sefinek.net/docs?page=requirements#system-requirements)
+- [🔧 Supported systems](https://stella.sefinek.net/docs?page=requirements#supported-operating-systems)
+- [⚙️ Recommended settings for game](https://stella.sefinek.net/docs?page=requirements#recommended-settings)
+- [🐈 What is ReShade and FPS Unlock?](https://stella.sefinek.net/docs?page=reshade-fpsunlocker)
+- [🤔 FAQ](https://stella.sefinek.net/docs?page=faq)
+- [🐕‍🦺 Support](https://stella.sefinek.net/docs?page=support)
+- [🔧 Troubleshooting](https://stella.sefinek.net/docs?page=troubleshooting)
+- [🚨 Terms of use](https://stella.sefinek.net/docs?page=terms-of-use)
+- [🔒 Privacy policy](https://stella.sefinek.net/docs?page=privacy-policy)
+- [📥 Installation](https://stella.sefinek.net/docs?page=installation)
+- [📷 Gallery](https://stella.sefinek.net/gallery?page=1)
+- [📃 Changelogs](https://stella.sefinek.net/docs?page=changelog_v8)
+- [🧀 Legend](https://stella.sefinek.net/docs?page=introduction#emoji-legend)
+- [🧶 Credits](https://stella.sefinek.net/docs?page=credits)
 
 <div align="center"><b>Welcome to the official GitHub repository for <a href="https://stella.sefinek.net">Genshin Stella Mod</a></b>! 👋</div><br>
 
@@ -57,7 +57,7 @@ Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and m
 Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.
 Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!
 
-## 📷 〢 Screenshot (see more [here](https://sefinek.net/genshin-stella-mod/gallery?page=1))
+## 📷 〢 Screenshot (see more [here](https://stella.sefinek.net/gallery?page=1))
 <div id="images">
     <a href="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png" alt="Screenshot number 1"></a>
     <a href="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png" alt="Screenshot number 2"></a>
