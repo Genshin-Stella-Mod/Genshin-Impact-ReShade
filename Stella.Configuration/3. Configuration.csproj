@@ -27,7 +27,7 @@
 		<FileVersion>$(Version)</FileVersion>
 
 		<PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Genshin-Stella-Mod/Genshin-Impact-ReShade</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>Genshin;Stella;Mod;Configuration;Window</PackageTags>
 

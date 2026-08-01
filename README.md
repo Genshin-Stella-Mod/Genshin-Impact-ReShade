@@ -9,8 +9,8 @@
     <a href="https://cdn.sefinek.net/?referrer=github_readme" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net" alt="cdn.sefinek.net status page"></a>
     <a href="https://patrons.sefinek.net/?referrer=github_readme" title="patrons.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=SPC&up_message=Online&url=https%3A%2F%2Fpatrons.sefinek.net" alt="patrons.sefinek.net status page"></a>
     <br>
-    <a href="https://github.com/sefinek/Genshin-Impact-ReShade" title="Repository size"><img src="https://img.shields.io/github/repo-size/sefinek/Genshin-Impact-ReShade?label=Repo%20size" alt="Repo size"></a>
-    <a href="https://github.com/sefinek/Genshin-Impact-ReShade/commits/main" title="Commit activity"><img src="https://img.shields.io/github/commit-activity/w/sefinek/Genshin-Impact-ReShade?label=Commit%20activity" alt="Commit activity"></a>
+    <a href="https://github.com/Genshin-Stella-Mod/Genshin-Impact-ReShade" title="Repository size"><img src="https://img.shields.io/github/repo-size/Genshin-Stella-Mod/Genshin-Impact-ReShade?label=Repo%20size" alt="Repo size"></a>
+    <a href="https://github.com/Genshin-Stella-Mod/Genshin-Impact-ReShade/commits/main" title="Commit activity"><img src="https://img.shields.io/github/commit-activity/w/Genshin-Stella-Mod/Genshin-Impact-ReShade?label=Commit%20activity" alt="Commit activity"></a>
     <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://img.shields.io/discord/1044713077125435492?label=Discord" alt="Our Discord server"></a>
     <a href="https://crowdin.com/project/genshin-stella-mod" title="Help translate on Crowdin"><img src="https://badges.crowdin.net/genshin-stella-mod/localized.svg" alt="Crowdin translation status"></a>
     <h3>
