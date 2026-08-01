@@ -1,10 +1,10 @@
 <div align="center">
     <p>
-        <a href="https://sefinek.net/images/stella/banner/meta2-alpha.png">
-            <img src="https://sefinek.net/images/stella/banner/meta2-alpha-min.png" id="header-pic" alt="🌟 Genshin Impact Stella Mod 2026 🌟">
+        <a href="https://stella.sefinek.net/images/banners/meta2-alpha.png">
+            <img src="https://stella.sefinek.net/images/banners/meta2-alpha-min.png" id="header-pic" alt="🌟 Genshin Impact Stella Mod 2026 🌟">
         </a>
     </p>
-    <a href="https://sefinek.net/?referrer=github_readme" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net" alt="sefinek.net status update"></a>
+    <a href="https://stella.sefinek.net/?referrer=github_readme" title="stella.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fstella.sefinek.net" alt="stella.sefinek.net status update"></a>
     <a href="https://api.sefinek.net/?referrer=github_readme" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net" alt="api.sefinek.net status page"></a>
     <a href="https://cdn.sefinek.net/?referrer=github_readme" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net" alt="cdn.sefinek.net status page"></a>
     <a href="https://patrons.sefinek.net/?referrer=github_readme" title="patrons.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=SPC&up_message=Online&url=https%3A%2F%2Fpatrons.sefinek.net" alt="patrons.sefinek.net status page"></a>
@@ -19,17 +19,17 @@
     </h3>
     <img src="https://api.sefinek.net/api/v2/moecounter/@Genshin-Stella-Mod-Repo?theme=default" alt="Views" title="README.md views - starting from June 15, 2023, 12:26 PM GMT+2">
     <br>
-    <a href="https://patreon.com/sefinek" title="Patreon"><img src="https://sefinek.net/images/become-a-patron.png" id="patreon" height="32" alt="Support me on Patreon"></a>
+    <a href="https://patreon.com/sefinek" title="Patreon"><img src="https://stella.sefinek.net/images/become-a-patron.png" id="patreon" height="32" alt="Support me on Patreon"></a>
     <a href="https://ko-fi.com/sefinek" title="Ko-fi"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" id="kofi" height="32" alt="Support me on Ko-fi"></a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://stella.sefinek.net?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
+  <a href="https://stella.sefinek.net?download=true&referrer=github_readme" title="Download stable release"><img src="https://stella.sefinek.net/images/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
   <br>
-  <a href="https://stella.sefinek.net?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
-  <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Stella Mod Discord Server" height="138"></a>
+  <a href="https://stella.sefinek.net?referrer=github_readme" title="Official website"><img src="https://stella.sefinek.net/images/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
+  <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://stella.sefinek.net/images/mafumafu/discord.png" alt="Stella Mod Discord Server" height="138"></a>
 </div>
 
 
@@ -59,9 +59,9 @@ Don't wait, download it now! Take your gameplay to the next level. Immerse yours
 
 ## 📷 〢 Screenshot (see more [here](https://stella.sefinek.net/gallery?page=1))
 <div id="images">
-    <a href="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png" alt="Screenshot number 1"></a>
-    <a href="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png" alt="Screenshot number 2"></a>
-    <a href="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png"><img src="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png" alt="Screenshot number 3"></a>
+    <a href="https://stella.sefinek.net/images/gallery/v7.9.7/1-2.png"><img src="https://stella.sefinek.net/images/gallery/v7.9.7/1-2.png" alt="Screenshot number 1"></a>
+    <a href="https://stella.sefinek.net/images/gallery/v7.9.7/2-2.png"><img src="https://stella.sefinek.net/images/gallery/v7.9.7/2-2.png" alt="Screenshot number 2"></a>
+    <a href="https://stella.sefinek.net/images/gallery/v8.1.6/1-2.png"><img src="https://stella.sefinek.net/images/gallery/v8.1.6/1-2.png" alt="Screenshot number 3"></a>
 </div>
 
 ## 🔖 〢 License
