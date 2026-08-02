@@ -93,7 +93,7 @@ internal partial class MainForm : Form
 
 	private void ViewDocs_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 	{
-		Process.Start(new ProcessStartInfo($"{Variables.WebsiteFull}/docs?page=terms-of-use") { UseShellExecute = true });
+		Process.Start(new ProcessStartInfo($"{Variables.Website}/docs?page=terms-of-use") { UseShellExecute = true });
 
 		linkLabel3.Text = Resources.ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation;
 		linkLabel3.LinkBehavior = LinkBehavior.NeverUnderline;
