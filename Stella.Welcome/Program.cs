@@ -24,6 +24,9 @@ internal static class Program
 	[STAThread]
 	private static void Main()
 	{
+		// Ensure the settings/log directory exists before anything tries to read or write into it
+		if (!Directory.Exists(AppData)) Directory.CreateDirectory(AppData);
+
 		// Prepare NLog
 		LogManagerHelper.Initialize(Path.Combine(AppPath!, "NLog.config"), AppName, AppVersion);
 		_logger = LogManagerHelper.GetLogger();

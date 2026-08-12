@@ -473,7 +473,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>14</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Copyright 2023-2025 © by Sefinek. All Rights Reserved.</value>
+    <value>Copyright 2023-2026 © by Sefinek. All Rights Reserved.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
