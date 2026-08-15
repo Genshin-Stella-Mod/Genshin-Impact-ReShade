@@ -79,7 +79,7 @@ internal partial class MainForm : Form
 		{
 			await using AudioFileReader audioFile = new(mp3FilePath);
 			await using WaveChannel32 volumeStream = new(audioFile);
-			using WaveOutEvent outputDevice = new();
+			using WaveOut outputDevice = new();
 			outputDevice.Init(volumeStream);
 			outputDevice.Play();
 
