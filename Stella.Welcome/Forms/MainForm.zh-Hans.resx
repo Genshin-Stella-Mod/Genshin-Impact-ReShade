@@ -139,7 +139,7 @@
     <value>0</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>READ BEFORE PLAYING</value>
+    <value>游戏前请阅读</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -172,11 +172,11 @@
     <value>1</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>The game will be launched soon. Please use the Stella Mod software responsibly and in strict accordance with its usage guidelines. Respect the integrity of the game and abide by HoYoverse's policies. Any actions intended to harm the game will be reported to HoYoverse.
+    <value>游戏即将启动。请负责任地使用 Stella Mod 软件，并严格遵守其使用指南。请尊重游戏的完整性，并遵守 HoYoverse 的相关政策。任何意图损害游戏的行为都将被举报给 HoYoverse。
 
-Key principles include: do not cheat, do not cause harm, and do not engage in any illegal activities.
+核心原则包括：不作弊、不造成损害、不从事任何非法活动。
 
-By following these rules, you can enjoy using Stella Mod safely. Have fun!</value>
+遵守这些规则，您就可以安全地享受 Stella Mod。祝您玩得愉快！</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -239,7 +239,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>6</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Please wait a moment...</value>
+    <value>请稍候...</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -275,7 +275,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>7</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>By using this software, the user agrees to comply with the guidelines.</value>
+    <value>使用本软件即表示用户同意遵守相关指南。</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -437,7 +437,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>13</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Click here to view the documentation and explore more detailed information &gt;&gt;</value>
+    <value>点击此处查看文档，了解更多详细信息 &gt;&gt;</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -473,7 +473,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>14</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Copyright 2023-2026 © by Sefinek. All Rights Reserved.</value>
+    <value>版权所有 2023-2026 © Sefinek。保留所有权利。</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -509,7 +509,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Read before playing</value>
+    <value>游戏前请阅读</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

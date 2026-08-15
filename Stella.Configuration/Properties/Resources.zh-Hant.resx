@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
-    <value>Required file '{0}' was not found.
+    <value>找不到所需檔案 '{0}'。
 
-Please reinstall this app or join our Discord server.</value>
+請重新安裝此應用程式，或加入我們的 Discord 伺服器。</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>The Stella resources directory was not found on your computer, so you cannot uncheck the checkbox.</value>
+    <value>在您的電腦上找不到 Stella 資源目錄，因此無法取消勾選該選項。</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. Please report this issue.
+    <value>抱歉，發生了問題。請回報此問題。
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-    <value>Fatal error</value>
+    <value>嚴重錯誤</value>
   </data>
 </root>

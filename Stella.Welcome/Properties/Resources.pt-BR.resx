@@ -121,7 +121,7 @@
     <value>Essa informação vai desaparecer em {0} segundos...</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Erro</value>
   </data>
   <data name="Closing" xml:space="preserve">
     <value>Fechando...</value>

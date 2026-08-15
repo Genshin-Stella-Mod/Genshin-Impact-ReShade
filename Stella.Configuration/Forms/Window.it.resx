@@ -414,8 +414,8 @@ Comunque, i tuoi predefiniti e altre shaders personalizzate non saranno rimossi.
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled.
-If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Si consiglia di compilare i campi contrassegnati con un asterisco (*).
+Se non sei sicuro di quello che stai facendo, non deselezionare alcun campo.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

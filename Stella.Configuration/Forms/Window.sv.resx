@@ -414,8 +414,8 @@ Dina förinställningar och andra anpassade shaders kommer dock inte att tas bor
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled.
-If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Fält markerade med en asterisk (*) rekommenderas att fyllas i.
+Om du är osäker på vad du gör, avmarkera inte något fält.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

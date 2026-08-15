@@ -414,8 +414,8 @@
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled.
-If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Поля, отмеченные звёздочкой (*), рекомендуется заполнить.
+Если вы не уверены в своих действиях, не снимайте отметку ни с одного поля.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

@@ -136,7 +136,7 @@
     <value>0</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>&gt;&gt; I am ready to continue &lt;&lt;</value>
+    <value>&gt;&gt; Ich bin bereit fortzufahren &lt;&lt;</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -214,7 +214,7 @@
     <value>84</value>
   </data>
   <data name="checkBox4.Text" xml:space="preserve">
-    <value>Download or update ReShade config [ReShade.ini] *</value>
+    <value>ReShade-Konfiguration herunterladen oder aktualisieren [ReShade.ini] *</value>
   </data>
   <data name="&gt;&gt;checkBox4.Name" xml:space="preserve">
     <value>checkBox4</value>
@@ -247,7 +247,7 @@
     <value>86</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>Delete ReShade cache</value>
+    <value>ReShade-Cache löschen</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -277,7 +277,7 @@
     <value>87</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Welcome to the configuration window</value>
+    <value>Willkommen im Konfigurationsfenster</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -310,8 +310,8 @@
     <value>88</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>It seems that this is your first run or you have just successfully updated the program.
-Congratulations! Now let's proceed to complete the final steps. Please select the appropriate fields.</value>
+    <value>Es scheint, dass dies Ihr erster Start ist oder Sie das Programm gerade erfolgreich aktualisiert haben.
+Herzlichen Glückwunsch! Lassen Sie uns nun die letzten Schritte abschließen. Bitte wählen Sie die entsprechenden Felder aus.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -347,7 +347,7 @@ Congratulations! Now let's proceed to complete the final steps. Please select th
     <value>89</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Download or update resources (shaders, presets, addons) *</value>
+    <value>Ressourcen herunterladen oder aktualisieren (Shader, Presets, Erweiterungen) *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -377,8 +377,8 @@ Congratulations! Now let's proceed to complete the final steps. Please select th
     <value>90</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>You should keep in mind that previous configurations may be lost, including ReShade and FPS Unlocker.
-However, your presets and other custom shaders will not be removed.</value>
+    <value>Bitte beachten Sie, dass vorherige Konfigurationen verloren gehen können, einschließlich ReShade und FPS Unlocker.
+Ihre Presets und andere benutzerdefinierten Shader werden jedoch nicht entfernt.</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -414,8 +414,8 @@ However, your presets and other custom shaders will not be removed.</value>
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled.
-If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Es wird empfohlen, die mit einem Sternchen (*) markierten Felder auszufüllen.
+Wenn Sie sich nicht sicher sind, was Sie tun, deaktivieren Sie kein Feld.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -448,7 +448,7 @@ If you are unsure of what you're doing, do not uncheck any field.</value>
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Prepare Genshin Stella Mod</value>
+    <value>Genshin Stella Mod vorbereiten</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Window</value>

@@ -119,6 +119,7 @@
   </resheader>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
     <value>Den nödvändiga filen '{0}' hittades inte.
+
 Vänligen installera om denna app eller gå med i vår Discord-server.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">

@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
-    <value>This information will disappear in {0}s...</value>
+    <value>此信息将在 {0} 秒后消失...</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>错误</value>
   </data>
   <data name="Closing" xml:space="preserve">
-    <value>Closing...</value>
+    <value>正在关闭...</value>
   </data>
   <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
-    <value>Take a moment to review the contents of this information. The documentation has been opened in your default browser.</value>
+    <value>请花一点时间查看此信息的内容。文档已在您的默认浏览器中打开。</value>
   </data>
 </root>

@@ -123,10 +123,10 @@
 يرجى إعادة تثبيت هذا التطبيق أو الانضمام إلى سيرفر ديسكورد الخاص بنا.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>The Stella resources directory was not found on your computer, so you cannot uncheck the checkbox.</value>
+    <value>لم يتم العثور على دليل موارد Stella على جهاز الكمبيوتر الخاص بك، لذا لا يمكنك إلغاء تحديد مربع الاختيار.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. Please report this issue.
+    <value>عذرًا، حدث خطأ ما. يُرجى الإبلاغ عن هذه المشكلة.
 
 {0}</value>
   </data>

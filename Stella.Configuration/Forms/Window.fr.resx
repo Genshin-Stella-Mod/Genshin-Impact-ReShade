@@ -136,7 +136,7 @@
     <value>0</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>&gt;&gt; I am ready to continue &lt;&lt;</value>
+    <value>&gt;&gt; Je suis prêt à continuer &lt;&lt;</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -214,7 +214,7 @@
     <value>84</value>
   </data>
   <data name="checkBox4.Text" xml:space="preserve">
-    <value>Download or update ReShade config [ReShade.ini] *</value>
+    <value>Télécharger ou mettre à jour la configuration ReShade [ReShade.ini] *</value>
   </data>
   <data name="&gt;&gt;checkBox4.Name" xml:space="preserve">
     <value>checkBox4</value>
@@ -247,7 +247,7 @@
     <value>86</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>Delete ReShade cache</value>
+    <value>Supprimer le cache ReShade</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -347,7 +347,7 @@ Félicitations ! Maintenant procédons pour compléter les dernières étapes.
     <value>89</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Download or update resources (shaders, presets, addons) *</value>
+    <value>Télécharger ou mettre à jour les ressources (shaders, préréglages, extensions) *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -377,8 +377,8 @@ Félicitations ! Maintenant procédons pour compléter les dernières étapes.
     <value>90</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>You should keep in mind that previous configurations may be lost, including ReShade and FPS Unlocker.
-However, your presets and other custom shaders will not be removed.</value>
+    <value>Gardez à l'esprit que les configurations précédentes peuvent être perdues, y compris celles de ReShade et de FPS Unlocker.
+Vos préréglages et autres shaders personnalisés ne seront toutefois pas supprimés.</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -414,8 +414,8 @@ However, your presets and other custom shaders will not be removed.</value>
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled.
-If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Il est recommandé de remplir les champs marqués d'un astérisque (*).
+Si vous n'êtes pas sûr de ce que vous faites, ne décochez aucun champ.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -448,7 +448,7 @@ If you are unsure of what you're doing, do not uncheck any field.</value>
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Prepare Genshin Stella Mod</value>
+    <value>Préparer Genshin Stella Mod</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Window</value>
