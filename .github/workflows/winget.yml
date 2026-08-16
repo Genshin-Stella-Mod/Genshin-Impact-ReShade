@@ -3,6 +3,12 @@ name: Publish to WinGet
 on:
   release:
     types: [released]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Release tag to (re-)publish, e.g. v8.11.0.0'
+        required: true
+        type: string
 
 jobs:
   publish:
@@ -14,3 +20,4 @@ jobs:
           installers-regex: '\.exe$'
           token: ${{ secrets.WINGET_TOKEN }}
           fork-user: sefinek
+          release-tag: ${{ inputs.tag || github.event.release.tag_name }}
