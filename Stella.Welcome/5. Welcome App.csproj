@@ -12,7 +12,8 @@
 		<StartupObject>InfoBeforeStart.Program</StartupObject>
 		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
 		<ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
-		<ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+		<ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
 
 		<Company>Sefinek</Company>
 		<Product>Stella Mod Information</Product>
@@ -53,7 +54,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="NAudio" Version="3.0.0" />
+		<PackageReference Include="NAudio" Version="3.0.1" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -12,7 +12,8 @@
 		<StartupObject>StellaConfiguration.Program</StartupObject>
 		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
 		<ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
-		<ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+		<ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
 
 		<Company>Sefinek</Company>
 		<Product>Stella Configuration Window</Product>
@@ -51,8 +52,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="CliWrap" Version="3.10.4" />
-		<PackageReference Include="NLog" Version="6.1.4" />
+		<PackageReference Include="CliWrap" Version="3.10.5" />
+		<PackageReference Include="NLog" Version="6.2.0" />
 	</ItemGroup>
 
 	<ItemGroup>

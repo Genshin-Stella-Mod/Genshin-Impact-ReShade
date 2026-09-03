@@ -11,7 +11,8 @@
 		<RootNamespace>GenshinTest</RootNamespace>
 		<StartupObject>GenshinTest.Program</StartupObject>
 		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-		<ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+		<ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
 
 		<Company>Sefinek</Company>
 		<Product>Genshin Stella Mod Test</Product>

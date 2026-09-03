@@ -34,11 +34,10 @@ internal static class Program
 		// Set the correct language
 		var currentLang = Settings.ReadString("Language", "UI");
 		_logger.Info($"Loaded language from settings: {currentLang}");
-		if (!Variables.SupportedLangs.Contains(currentLang))
+		(currentLang, var systemCulture) = LanguageResolver.Resolve(currentLang);
+		if (systemCulture != null)
 		{
-			var sysLang = CultureInfo.InstalledUICulture.TwoLetterISOLanguageName;
-			currentLang = Array.Find(Variables.SupportedLangs, lang => lang == sysLang) ?? "en";
-			_logger.Info($"System language detected: {sysLang}. Using: {currentLang}");
+			_logger.Info($"System language detected: {systemCulture}. Using: {currentLang}");
 			Settings.WriteString("Language", "UI", currentLang);
 		}
 		else
