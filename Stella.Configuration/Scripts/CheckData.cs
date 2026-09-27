@@ -8,7 +8,7 @@ internal static class CheckData
 {
 	public static bool IsAStellaPlusSubscriber()
 	{
-		return TryGetRegistryValue("Secret", out var data) && !string.IsNullOrEmpty(data);
+		return TryGetRegistryValue("Secret", out string? data) && !string.IsNullOrEmpty(data);
 	}
 
 	public static bool ResourcesPath()
@@ -16,7 +16,7 @@ internal static class CheckData
 		using RegistryKey? key = Registry.CurrentUser.OpenSubKey(Variables.RegistryPath);
 		if (key == null) return false;
 
-		var path = key.GetValue("ResourcesPath") as string;
+		string? path = key.GetValue("ResourcesPath") as string;
 		return !string.IsNullOrEmpty(path) && Directory.Exists(path) && File.Exists(Path.Combine(path, "data.json"));
 	}
 
@@ -28,7 +28,7 @@ internal static class CheckData
 			if (key is not null)
 			{
 				value = key.GetValue(keyName) as string;
-				var data = !string.IsNullOrEmpty(value);
+				bool data = !string.IsNullOrEmpty(value);
 				Program.Logger.Info($"{keyName}: {data}");
 
 				return data;

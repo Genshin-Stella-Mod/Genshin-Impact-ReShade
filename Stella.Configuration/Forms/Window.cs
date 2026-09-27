@@ -30,7 +30,7 @@ internal partial class Window : Form
 	private void Main_Load(object sender, EventArgs e)
 	{
 		// Resources
-		var foundResources = CheckData.ResourcesPath();
+		bool foundResources = CheckData.ResourcesPath();
 		if (!foundResources)
 		{
 			checkBox7.Checked = true;
@@ -38,7 +38,7 @@ internal partial class Window : Form
 		}
 		else
 		{
-			var stellaModPlusSubscriber = CheckData.IsAStellaPlusSubscriber();
+			bool stellaModPlusSubscriber = CheckData.IsAStellaPlusSubscriber();
 			if (stellaModPlusSubscriber && foundResources)
 			{
 				checkBox7.Checked = false;
@@ -63,7 +63,7 @@ internal partial class Window : Form
 
 	private void DownloadOrUpdateShaders(object sender, EventArgs e)
 	{
-		var foundResources = CheckData.ResourcesPath();
+		bool foundResources = CheckData.ResourcesPath();
 		if (!foundResources && !checkBox7.Checked)
 		{
 			checkBox7.Checked = true;
@@ -99,15 +99,17 @@ internal partial class Window : Form
 	{
 		SaveIniData();
 
-		var prepareStellaExe = Path.Combine(AppPath, "Prepare Stella Mod.exe");
+		string prepareStellaExe = Path.Combine(AppPath, "Prepare Stella Mod.exe");
 		string[] requiredFiles = [prepareStellaExe, Terminal];
-		foreach (var file in requiredFiles)
+		foreach (string file in requiredFiles)
+		{
 			if (!File.Exists(file))
 			{
 				Program.Logger.Error($"File {file} was not found");
 				MessageBox.Show(string.Format(Resources.RequiredFile_WasNotFound, file), AppName, MessageBoxButtons.OK, MessageBoxIcon.Error);
 				return;
 			}
+		}
 
 		await Cli.Wrap(Terminal)
 			.WithArguments(prepareStellaExe)

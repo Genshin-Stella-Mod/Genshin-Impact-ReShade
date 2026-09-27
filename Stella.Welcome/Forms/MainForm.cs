@@ -26,7 +26,7 @@ internal partial class MainForm : Form
 		_autoCloseTimer.Tick += AutoCloseTimer_Tick;
 		_autoCloseTimer.Start();
 
-		TimeSpan time = TimeSpan.FromSeconds(_remainingSeconds);
+		var time = TimeSpan.FromSeconds(_remainingSeconds);
 		label4.Text = string.Format(Resources.ThisInformationWillDisappearIn_, $"{time.Seconds:D2}");
 	}
 
@@ -51,7 +51,7 @@ internal partial class MainForm : Form
 		_remainingSeconds--;
 		if (_remainingSeconds >= 0)
 		{
-			TimeSpan time = TimeSpan.FromSeconds(_remainingSeconds);
+			var time = TimeSpan.FromSeconds(_remainingSeconds);
 			label4.Text = string.Format(Resources.ThisInformationWillDisappearIn_, $"{time.Seconds:D2}");
 		}
 		else
@@ -72,7 +72,7 @@ internal partial class MainForm : Form
 	private async void Meow_Click(object sender, EventArgs e)
 	{
 		Random random = new();
-		var mp3FilePath = Path.Combine(Directory.GetCurrentDirectory(), "data", "sounds", "meows", $"{random.Next(1, 5)}.mp3");
+		string mp3FilePath = Path.Combine(Directory.GetCurrentDirectory(), "data", "sounds", "meows", $"{random.Next(1, 5)}.mp3");
 		if (!File.Exists(mp3FilePath)) return;
 
 		try

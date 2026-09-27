@@ -25,9 +25,9 @@ internal static class Program
 		Logger = LogManagerHelper.GetLogger();
 
 		// Set the correct language
-		var currentLang = Settings.ReadString("Language", "UI");
+		string currentLang = Settings.ReadString("Language", "UI");
 		Logger.Info($"Loaded language from settings: {currentLang}");
-		(currentLang, var systemCulture) = LanguageResolver.Resolve(currentLang);
+		(currentLang, string? systemCulture) = LanguageResolver.Resolve(currentLang);
 		if (systemCulture != null)
 		{
 			Logger.Info($"System language detected: {systemCulture}. Using: {currentLang}");

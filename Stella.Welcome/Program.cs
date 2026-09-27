@@ -32,9 +32,9 @@ internal static class Program
 		_logger = LogManagerHelper.GetLogger();
 
 		// Set the correct language
-		var currentLang = Settings.ReadString("Language", "UI");
+		string currentLang = Settings.ReadString("Language", "UI");
 		_logger.Info($"Loaded language from settings: {currentLang}");
-		(currentLang, var systemCulture) = LanguageResolver.Resolve(currentLang);
+		(currentLang, string? systemCulture) = LanguageResolver.Resolve(currentLang);
 		if (systemCulture != null)
 		{
 			_logger.Info($"System language detected: {systemCulture}. Using: {currentLang}");

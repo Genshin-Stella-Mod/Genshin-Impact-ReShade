@@ -25,7 +25,7 @@ public class IniFile
 
 	public int ReadInt(string section, string key, int defaultValue)
 	{
-		int.TryParse(ReadString(section, key, defaultValue.ToString()), out var value);
+		int.TryParse(ReadString(section, key, defaultValue.ToString()), out int value);
 		return value;
 	}
 
