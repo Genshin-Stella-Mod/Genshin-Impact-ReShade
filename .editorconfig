@@ -171,6 +171,7 @@ end_of_line = crlf
 
 # C# file rules
 [*.cs]
+dotnet_style_namespace_match_folder = false
 resharper_braces_for_for = required_for_multiline
 resharper_braces_for_foreach = required_for_multiline
 resharper_braces_for_while = required_for_multiline
